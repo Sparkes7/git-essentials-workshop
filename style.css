@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    background-color: red;
+    display:inline-block;
+    text-transform: uppercase;
+    color:white;
+    padding: 0.5rem 4rem;
+}
